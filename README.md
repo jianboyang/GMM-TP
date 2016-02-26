@@ -17,7 +17,4 @@ Version history:
  version 1.1 (Oct. 14, 2014)
 
 
---------------------------
 Please send comments, suggestions and bug reports to email: jbyang.email@gmail.com
--------------------------
-
